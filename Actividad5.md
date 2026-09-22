@@ -9,8 +9,19 @@
 | Juan Carlos Monzón Morales  | 202500436 |
 
 ## Situación
-h
+Un integrante del equipo entregó su parte del trabajo, pero está incompleta y tiene varios errores. Esto está afectando el avance del grupo.
+
 ## Analisis del escenario planteado
 h
-## Retroalimentación grupal
+
+## Identificación del problema
+h
+
+## Aplicación de técnicas de comunicación asertiva
+h
+
+## Retroalimentación grupal.
+h
+
+## Imagen de reunión de meet.
 h
