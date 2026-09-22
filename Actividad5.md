@@ -46,4 +46,5 @@ La situación presenta un reto comunicativo frecuente en entornos académicos y 
 
 
 ## Imagen de reunión de meet.
-h
+<img width="1600" height="899" alt="Actividad5" src="https://github.com/user-attachments/assets/c546361a-6697-4b83-866e-221d02a36d16" />
+
