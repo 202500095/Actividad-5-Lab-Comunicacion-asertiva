@@ -9,3 +9,8 @@
 | Juan Carlos Monzón Morales  | 202500436 |
 
 ## Situación
+h
+## Analisis del escenario planteado
+h
+## Retroalimentación grupal
+h
