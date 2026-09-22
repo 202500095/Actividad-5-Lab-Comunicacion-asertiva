@@ -18,10 +18,26 @@ h
 h
 
 ## Aplicación de técnicas de comunicación asertiva
-h
+
+### Técnica del sándwich
+> **Aspecto positivo:**
+> "Vi que ya avanzaste bastante con tu parte y se nota el esfuerzo que le pusiste, sobre todo en la estructura general y en cómo organizaste las secciones."
+>
+> **Aspecto a mejorar:**
+> "Sin embargo, encontré algunos puntos que quedaron incompletos y unos errores que podrían afectar la entrega final del equipo. Sería bueno revisarlos juntos para corregirlos antes de la fecha límite"
+>
+> **Cierre positivo:**
+> "Con esos ajustes, tu parte va a quedará mejor y va a encajar perfecto con lo que ya tenemos armado. ¿Tienes tiempo hoy en la tarde para repasarlo juntos? Puedo apoyarte si quieres."
+
+---
 
 ## Retroalimentación grupal.
-h
+| Aspecto | Observación |
+|---|---|
+| **Claridad del mensaje** |  El feedback identifica los puntos concretos y evita ambigüedades. |
+| **Tono utilizado** | Cordial y motivador |
+| **Nivel de profesionalismo** |  |
+| **Manejo emocional** |  |
 
 ## Imagen de reunión de meet.
 h
