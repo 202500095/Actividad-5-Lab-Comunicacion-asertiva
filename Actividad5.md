@@ -2,11 +2,11 @@
 
 ## Datos del grupo
 
-| Nombre | Carnet |
-|--------|--------|
-| |  |
+| Nombre | Carnet | Grupo Original |
+|--------|--------|--------|
+| Christian Emanuel Itzep Lemus | 202500095 |  Grupo 3 |
 |   |  |
-| Juan Carlos Monzón Morales  | 202500436 |
+| Juan Carlos Monzón Morales  | 202500436 | |
 
 ## Situación
 Un integrante del equipo entregó su parte del trabajo, pero está incompleta y tiene varios errores. Esto está afectando el avance del grupo.
