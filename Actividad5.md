@@ -41,8 +41,8 @@ La situación presenta un reto comunicativo frecuente en entornos académicos y 
 |---|---|
 | **Claridad del mensaje** |  El feedback identifica los puntos concretos y evita ambigüedades. |
 | **Tono utilizado** | Cordial y motivador |
-| **Nivel de profesionalismo** | Se centra en el trabajo y los resultados del equipo, se reconoce el esfuerzo, se plantea soluciones concretas y se ofrece colaboración; todo ello dentro del respeto y la responsabilidad. |
-| **Manejo emocional** | Se transmite calma y empatía; se evita la frustración o la culpa, se valora el esfuerzo del compañero antes de mencionar mejoras y se cierra con disposición de ayuda, favoreciendo la confianza y la colaboración. |
+| **Nivel de profesionalismo** | Se centra en el trabajo y los resultados del equipo, se reconoce el esfuerzo, se plantea soluciones concretas y se ofrece colaboración, todo ello dentro del respeto y la responsabilidad. |
+| **Manejo emocional** | Se transmite calma y empatía, se evita la frustración o la culpa, se valora el esfuerzo del compañero antes de mencionar mejoras y se cierra con disposición de ayuda, favoreciendo la confianza y la colaboración. |
 
 
 ## Imagen de reunión de meet.
